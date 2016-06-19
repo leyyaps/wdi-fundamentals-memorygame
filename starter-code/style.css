@@ -44,8 +44,8 @@ h1, h2, h3, footer, p {
 	display: inline-block;
 	width: 50%;
 	height: 50%;
-	float: left;
-	margin: 8%;
+
+	
 }
 
 .card {
@@ -54,6 +54,8 @@ h1, h2, h3, footer, p {
 	border: solid 1px black; 
 	background-color:#FEE15F;
 	border-radius: 10px;
+	float: left;
+	margin: 8%;
 }
 
 .clearfix:after {

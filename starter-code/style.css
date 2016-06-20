@@ -57,6 +57,10 @@ h1, h2, h3, footer, p {
 	float: left;
 	margin: 8%;
 }
+img {
+	height: 196px;
+	width: 148px;
+}
 
 .clearfix:after {
         visibility: hidden;
